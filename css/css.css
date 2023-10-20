@@ -15,12 +15,13 @@ body{text-align: center;
     font-family: monospace;
     font-weight: 600;
 }
-p{ 
+.flex-container{ 
     text-align: justify;
     color: rgb(43, 226, 119);
     font-size: 15px;
     font-family: sans-serif;
     font-weight: 600;
+    
 }
 .button{
     font-family:sans-serif;
