@@ -1,1 +1,1 @@
-alert('Ola, seja bem a Recle Now');
+alert('Ola, seja bem ao Curso de Informatica');
